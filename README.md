@@ -1,6 +1,6 @@
 # Deep Learning
 
-- [Deep Learning Learning](#Deep Learning)
+- [Deep Learning](#Deep Learning)
   - [Introduction](#introduction)
   - [Get Started](#get-started)
 
